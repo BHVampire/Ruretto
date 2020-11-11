@@ -1,0 +1,35 @@
+.add-students-button-container{
+    position: fixed;
+    left: -5rem;
+    bottom: -5rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    width: 20rem;
+    height: 20rem;
+
+    background-color: white;
+
+    border-radius: 100%;
+}
+
+.students-input-container{
+    margin-top: 1rem;
+    border-right: 1px solid rgb(163, 163, 163);
+}
+
+.students-input{
+    width: 90%;
+    min-height: 80vh;
+
+    outline: none;
+    border: none;
+
+    font-size: 1.5rem;
+    color: rgb(0, 0, 94);
+    line-height: 2rem;
+    font-style: inherit;
+    font-family: inherit;
+}

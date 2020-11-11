@@ -1,15 +1,32 @@
 {
   "name": "ruretto",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
+    "@emotion/core": "^10.0.35",
+    "@emotion/styled": "^10.0.27",
+    "@material-ui/core": "^5.0.0-alpha.14",
+    "@material-ui/icons": "^5.0.0-alpha.14",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "css-translate-matrix-parser": "^1.0.2",
+    "cubic-bezier": "^0.1.2",
+    "history": "^5.0.0",
+    "material-design-icons": "^3.0.1",
+    "node-sass": "^4.14.1",
+    "radium": "^0.26.1",
+    "random": "^2.2.0",
     "react": "^17.0.1",
+    "react-controlled-text": "^1.0.0",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.0",
-    "web-vitals": "^0.2.4"
+    "react-svg-text": "^0.1.2",
+    "svg-arc": "^1.0.2",
+    "uuid": "^8.3.1",
+    "web-vitals": "^0.2.4",
+    "xlsx": "^0.16.8"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +51,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "A \"Spin the Wheel\" or \"Roulette\" game for teachers with an Excel database for a funny learning experience in class.",
+  "main": "index.js",
+  "repository": "https://github.com/BHVampire/Ruretto.git",
+  "author": "BHVampire <pichardo@plvvial.com>",
+  "license": "MIT"
 }

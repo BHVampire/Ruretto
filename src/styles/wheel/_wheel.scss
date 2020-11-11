@@ -1,0 +1,33 @@
+$wheel-size: 80vh;
+
+
+.wheel{
+    height: 85vh;
+    max-height: 65vh;
+    user-select: none;
+}
+
+
+.wheel-button{
+    cursor: pointer;
+    fill: white;
+
+    transition: 5s cubic-bezier(0.750, -0.150, 0.250, 1.075);
+
+    &:hover{
+        fill: black;
+    }
+}
+
+.wheel-elements{
+    transition: fill 1s ease;
+}
+
+.wheel-group {
+    transition: 5s cubic-bezier(0.750, -0.150, 0.250, 1.075);
+    /* transition: 5s cubic-bezier(0.680, -0.550, 0.265, 1.550); */
+  }
+
+  .wheel-arrow-color{
+    transition: 5s cubic-bezier(0.750, -0.150, 0.250, 1.075);
+  }
