@@ -1,1 +1,2 @@
-# Spin the Wheel Game made with React for teachers
+# Spin the Wheel Game for teachers
+## Have fun. :)
