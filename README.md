@@ -1,2 +1,2 @@
 # Spin the Wheel Game for teachers
-## Have fun. :)
+Have fun. :)
