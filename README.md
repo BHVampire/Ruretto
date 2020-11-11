@@ -6,6 +6,6 @@ The main components are in the folder:
 and
 \src\hooks
 
-[Demo] (https://sad-wiles-ab0a58.netlify.app/)
+[Demo](https://sad-wiles-ab0a58.netlify.app/)
 
 Have fun. :)
