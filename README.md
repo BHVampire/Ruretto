@@ -1,6 +1,6 @@
 # Spin the Wheel Game for teachers
 
-The database is an excel file, each new column is a roulette wheel, and it can grow infinitely.
+The database is an excel file, each new column is a roulette wheel, the first row is the title of the roulette, and it can grow infinitely.
 
 I chose the Excel format due to security and technology limitations of the company.
 
