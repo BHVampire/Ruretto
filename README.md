@@ -1,14 +1,10 @@
 # Spin the Wheel Game for teachers
-The database is an excel file in the Public folder, I hate it too, but my colleagues are allergic to technology.
 
-The main components are in the folder:
+The database is an excel file, each new column is a roulette wheel, and it can grow infinitely.
 
-\src\components\wheel\Questions
+I chose the Excel format due to security and technology limitations of the company.
 
-and
-
-\src\hooks
-
+If you have any dount, feel free to pull a request and I'll be happy to help.
 
 ## [Demo](https://sad-wiles-ab0a58.netlify.app/)
 
